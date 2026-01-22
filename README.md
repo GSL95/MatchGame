@@ -1,3 +1,10 @@
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Desktop App](https://img.shields.io/badge/Desktop_App-Windows-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge)
+
+ 
  <h1>🧠MatchGame</h1>
 
 Um jogo de destreza desenvolvido em C# com foco em lógica de programação e prática com interfaces e eventos. O jogador deve encontrar pares de cartas iguais, virando duas por vez, até completar todo o tabuleiro no menor tempo possível.

@@ -9,7 +9,7 @@
 
 Um jogo de destreza desenvolvido em C# com foco em lógica de programação e prática com interfaces e eventos. O jogador deve encontrar pares de cartas iguais, virando duas por vez, até completar todo o tabuleiro no menor tempo possível.
 
-✨ Ideal para praticar conceitos como:
+✨ Para praticar conceitos como:
 
 Classes e objetos em C#
 
